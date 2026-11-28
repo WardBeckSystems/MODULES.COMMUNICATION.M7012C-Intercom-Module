@@ -1,6 +1,6 @@
 # M7012C Intercom Module · Communication
 
-Ward-Beck Systems M7012C, 1995|28. Wiki page: [M7012C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7012C.html)
+Ward-Beck Systems M7012C, 1995|28. Wiki page: [M7012C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7012C-Intercom-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
